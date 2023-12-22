@@ -3,7 +3,7 @@ This Github Repository contains a Question, Answer, Hints Dataset.
 
 It consists of the following features:
 
-* Question: A Wikipedia article-based question.
+* Question: A Wikipedia-article-based question.
 * Answer: The answer to the question
 * Link: A link to the Wikipedia article
 * Hint1: The first hint
@@ -12,7 +12,7 @@ It consists of the following features:
 * Hint5: The fifth hint
 * Rank1: The ranking of the first hint
 * ...
-* Rank5: The ranking of the second hint
+* Rank5: The ranking of the fifth hint
 
 The dataset was created with Amazon Mechanical Turk (MTurk).
 Workers were asked to write five hints using the Wikipedia article as their knowledge-base.
